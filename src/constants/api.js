@@ -2,7 +2,7 @@
 const API = {};
 
 // API hostname
-const HOSTNAME = "https://booking-server-f4wl.onrender.com/";
+const HOSTNAME = "https://booking-server-f4wl.onrender.com";
 
 // Set value for sub-constant
 API.POST_REGISTER = HOSTNAME + "/api/auth/register";
